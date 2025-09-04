@@ -17,11 +17,11 @@
 ## 📸 Vista previa
 Ejecución en consola mostrando la carga de coches y algunas operaciones CRUD:
 
-Inserción:
-<img src="insercion.png" width="600">
+Inserción
+<img src="insercion.png">
 
-Consulta:
-<img src="listado.png" width="600">
+Consulta
+<img src="listado.png">
 
-Persistencia:
-<img src="persistencia.png" width="600">
+Persistencia
+<img src="persistencia.png">
